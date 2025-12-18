@@ -1,5 +1,6 @@
 numpy
-scipy librosa
+scipy
+librosa
 yt-dlp
 pydub
 matplotlib
