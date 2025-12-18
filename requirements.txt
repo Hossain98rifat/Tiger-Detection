@@ -1,0 +1,13 @@
+numpy
+scipy librosa
+yt-dlp
+pydub
+matplotlib
+matplotlib.pyplot
+tensorflow
+tensorflow_hub
+os
+tqdm
+sklearn
+pickle
+pandas
